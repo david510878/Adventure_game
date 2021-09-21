@@ -8,6 +8,8 @@ Team leader : david
 2D platformer, midevil
 
 # stuff to work on
-Player attacks
+Mathew: Player attacks/ ememy attack
 &
-scenery
+Bobby: scenery
+&
+David: Health UI
